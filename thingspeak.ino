@@ -1,3 +1,4 @@
+//ссылка на thingspeak: https://thingspeak.mathworks.com/channels/2936178
 #include <ESP8266WiFi.h>
 #include <ThingSpeak.h>
 #include <DHT.h>
